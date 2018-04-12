@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/mklauber/SoundPad-Sounds",
+    "description": "Sounds for mklauber's SoundPad",
+    "author": "Matthew Lauber",
+    "version": "1.0.0",
+    "core-version": ">=5.0.1",
+    "plugin-type": "plugin",
+	"list": ""
+}
